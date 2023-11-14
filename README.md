@@ -1,1 +1,1 @@
-# reactClass3
+# react-app-template
